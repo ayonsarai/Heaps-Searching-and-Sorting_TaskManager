@@ -19,13 +19,13 @@ Provides a simple text-based menu for user interaction.
 Allows users to add tasks, mark tasks as done, delete tasks, display all tasks, and quit the program.
 
 Usage (User Prompt)
-Add Task: Adds a new task to the task manager with a specified name, due date, and priority.
-Mark Task Done: Removes a task from the task manager by its name, marking it as completed.
-Delete Task: Deletes a task from the task manager by its name.
-Display All Tasks: Displays all tasks currently in the task manager, sorted by priority.
-Quit: Exits the application.
+-Add Task: Adds a new task to the task manager with a specified name, due date, and priority.
+-Mark Task Done: Removes a task from the task manager by its name, marking it as completed.
+-Delete Task: Deletes a task from the task manager by its name.
+-Display All Tasks: Displays all tasks currently in the task manager, sorted by priority.
+-Quit: Exits the application.
 
-This implementation provides a basic yet functional task manager using a max-heap to prioritize tasks efficiently based on their priority ratings.
+This provides a basic yet functional task manager using a max-heap to prioritize tasks efficiently based on their priority ratings.
 
 
 
